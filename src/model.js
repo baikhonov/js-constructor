@@ -6,7 +6,7 @@ const text = `
 Крутые видео и уроки по JavaScript тут: <a href="https://youtube.com/c/VladilenMinin" target="_blank">Владилен Минин</a>. Тут ты найдешь исчерпывающую информацию по любым аспектам языка, любым фреймворкам, такие как: React, Vue, Angular, Node, Svelte, Express, Next, Nuxt и многое другое. Присоединяйся!
 `
 export const model = [
-    new TitleBlock('Конструктор сайтов на чистом JavaScript',  {
+    new TitleBlock('Конструктор сайтов на чистом JavaScript!',  {
         tag: 'h2',
         styles: {
             background: 'linear-gradient(to right, #ff0099, #493240)',
